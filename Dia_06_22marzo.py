@@ -172,6 +172,7 @@ lista = ["fruta", 'vegetal', 'harina']
 if 'vegetal' in lista:
   print("lista esta completa")
 
+'-------------------------------------------------------------------------------------------------------------------------------------------' 
 ## Bucle for:
 '''
 Un bucle for se utiliza para iterar sobre una secuencia
