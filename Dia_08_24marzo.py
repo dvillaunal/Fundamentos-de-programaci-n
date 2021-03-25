@@ -93,6 +93,18 @@ print(lista_float)
 print(lista_str)
 print(lista_bool)
 
+'''
+Ciclo for:
+
+La sentencia for de Python itera sobre los ítems de cualquier secuencia (una lista o una cadenas de caracteres), en el orden que aparecen en la secuencia.
+
+Tipos de ciclo for:
+
+Algunos ejemplos se presentaran a continuación.
+
+Bucle for con Dicionarios.
+'''
+
 lista_de_nombres = ['Miguel', 'Bruma', 'Jose', 'Lorena', 'Natalia', 'Paola', 'Sara', 'Liliana']
 edades = {'Miguel': 22, 'Daniel': 25, 'Bruma': 9,'Jose': 23, 'Lorena': 17, 'Natalia': 18, 'Paola': 22, 'Sara': 29, 'Liliana': 56}
 
@@ -139,6 +151,12 @@ for i in range(0, 101, 1):
     break
 
 
+'''
+Bucle for con else y break:
+
+El bucle for al igual que las sentencias if y el bucle while, su estrutura se puede combinar con uan sentecia else.
+'''
+
 for n in range(3, 10):
   for x in range(2, n):
     if n % x == 0:
@@ -158,6 +176,12 @@ for i in range(100000):
 
 
 'Con la instrucción else podemos ejecutar un bloque de código una vez cuando la condición ya no es verdadera:'
+
+'''
+Bucle for con continue:
+
+Regresa al comienzo del bucle, ignorandi todos los estamentos que quedan en al iterración actual del bucle, e inicia la siguiente iteración.
+'''
 
 palabra = "amo python"
 
