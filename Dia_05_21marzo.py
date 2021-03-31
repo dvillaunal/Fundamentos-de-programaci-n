@@ -33,6 +33,7 @@ print("Veamos la clase de one_element", type(one_element))
 no_tupla = ('elemento')
 print(type(no_tupla))
 
+
 ## Tipo de datos:
 '''
 Los elementos de tupla pueden ser de cadena, numeros (int y/o float) y booleanos
