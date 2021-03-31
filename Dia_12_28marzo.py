@@ -100,3 +100,4 @@ for i in range(10):
 
 sumar(n[:])  # Una copia de la lista usando [:]
 print(n)
+
