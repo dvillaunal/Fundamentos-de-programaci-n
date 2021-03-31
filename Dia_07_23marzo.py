@@ -174,3 +174,5 @@ for i in RH_Tipos_list:
     print("Tu tipo de sangre es {}" .format(RH))
     break
 
+
+    
