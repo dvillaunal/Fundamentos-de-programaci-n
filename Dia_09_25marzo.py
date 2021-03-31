@@ -107,3 +107,5 @@ while type(s) == str:
     elif s == 'sí':
         print('¡Hasta la vista!')
         break
+
+        
