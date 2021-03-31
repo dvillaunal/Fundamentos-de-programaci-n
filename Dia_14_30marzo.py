@@ -107,3 +107,4 @@ for i in [0, pi/6, pi/4, pi/3, pi/2, pi]:
 
 print("un valor del seno es: ", sample(valores_sin, k = 1))
 print("un valor del coseno es: ", sample(valores_cos, k = 1))
+
