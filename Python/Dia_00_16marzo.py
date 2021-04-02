@@ -7,4 +7,3 @@ mostrando el resultado en pantalla como lo veremos en el siguiente ejemplo:
 '''
 print("Hola mundo")
 
-
