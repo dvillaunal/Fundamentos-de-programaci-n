@@ -192,4 +192,3 @@ def dibujo():
 
 
 dibujo()
-
