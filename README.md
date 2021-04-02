@@ -21,3 +21,11 @@ Website Oficial: https://www.100daysofcode.com/
 *Durante los primeros 30 días todas y todos estudiarán los mismos temas del lenguaje Python 3.*
 *A partir del día 31 los temas serán personalizados con base a las respuestas  de la encuesta realizada y*
 *no todos los repls se crearán en Python 3.*
+
+## Lenguajes Utilizados:
+
+- Python
+- R
+
+**Por ende estas seran las carpetas donde se almacenaran  desde el dia 00 al (29 ó 30) => Python**
+**de hay en adelante el codigo sera en el Lenguaje estadístico R**
