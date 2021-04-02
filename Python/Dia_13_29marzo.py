@@ -233,3 +233,4 @@ type() # Retorna el tipo de objeto a evaluar
 ....entre otras....
 '''
 
+
