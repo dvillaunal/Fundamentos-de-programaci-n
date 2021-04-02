@@ -112,4 +112,3 @@ if 'Nombre' in ejemplo:
   print("Los datos del Diccionario son de {}." .format(ejemplo['Nombre']))
   print(ejemplo)
 
-
