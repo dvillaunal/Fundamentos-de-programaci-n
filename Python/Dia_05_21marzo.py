@@ -173,3 +173,4 @@ implementarlos como tupla garantizará que permanezcan protegidos contra escritu
 
 Texto sacado de [https://www.programiz.com/python-programming/tuple]
 '''
+
