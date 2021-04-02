@@ -120,4 +120,3 @@ lista_num.sort()
 print(lista_num)
 lista.reverse() # invertir el orden dado
 print(lista)
-
