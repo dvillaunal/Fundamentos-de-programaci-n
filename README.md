@@ -1,6 +1,11 @@
 # Fundamentos-de-programaci-n
 #100DaysOfCode
 
+## Hoja de Calculo (Desafios):
+
+**Ingresar con el Correo Institucional**
+[PlanDeTrabajo100DiasCodigo](https://docs.google.com/spreadsheets/d/1zOCPx-HGAMvFFdbeVWQXZXKyA1e__B3vchmf2zNdYco/edit#gid=486978206)
+
 ## Primeros Pasos
 1. Cree una cuenta gratuita en Replit con su cuenta de correo del dominio @unal.
 
