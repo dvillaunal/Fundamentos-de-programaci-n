@@ -177,3 +177,4 @@ def f(x=None):
     print("No se permite un valor nulo (desde except)")
     
 f()
+
