@@ -2,7 +2,7 @@ Nombre,Referencia,Precio/KG,Precio/u
 Manzana Roja,mr132,10000,1000
 Manzana Verde,mv139,10000,1000
 Pera,p001,8000,800
-Melón,m010,15000,
+Melón,m010,15000,None
 Sandia,s032,12000,2000
 Fresa,f234,5000,200
 Maracuy,ma216,4000,1500
