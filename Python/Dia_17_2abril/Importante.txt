@@ -1,0 +1,3 @@
+IMPORTANTE:
+Cuando se crea un libro, este no contiene ninguna celda.
+Las celdas se van creando en memoria a medida que se va accediendo a ellas, aunque no contengan ningún valor.
