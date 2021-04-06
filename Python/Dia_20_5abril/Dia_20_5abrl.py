@@ -1,5 +1,9 @@
 from datetime import datetime, date
-
+'''
+Toda la Idea de este codigo fue sacado de una función
+de la calculadora del sistema MI (Xiaomi company)
+(anexo foto)[photo_2021-04-06_13-10-18.jpg]
+'''
 # Fecha de nacimiento str a datetime:
 e = open('EDAD.txt', 'r')
 lista_e = e.readlines()
@@ -92,6 +96,14 @@ r.write(dias_faltantes)
 import datetime
 r.write('Resumen #1\n')
 def time(t):
+  """
+  Calcula el # de:
+  1. dias
+  2. horas
+  3. minutos
+  4. segundos
+  formato de t = 'dd/mm/aaaa'
+  """
   fecha_de_hoy = datetime.datetime.now()
   dif = fecha_de_hoy - t
   dias_vividos = dif.days
@@ -104,7 +116,6 @@ def time(t):
 
 dmhs = time(fborn_date)
 r.write(dmhs)
-
 
 r.write('Resumen #2\n')
 r.write('---Has Vivido---\n')
@@ -142,19 +153,25 @@ r.write(ms)
 
 r.close()
 
-'''
-Si edad_persona <= 2:
-  la edad en años caninos es = edad_persona * 10.5
+# EDAD CANINA:
 
-SI edad_persona > 2:
-  La edad en años caninos es = 21 + (edad_persona - 2) * 4
-'''
 from datetime import datetime, date
 
 age_can = open('age_dog.txt', 'a')
 
 
 def calcan(age):
+  """
+  Calcula La edad de una edad_persona
+  en tiempo canino.
+  formato t = 'dd/mm/aaaa'
+  
+  -> Si edad_persona <= 2:
+     la edad en años caninos es = edad_persona * 10.5
+  
+  -> SI edad_persona > 2:
+     La edad en años caninos es = 21 + (edad_persona - 2) * 4
+  """
   today = datetime.now()
   a= today.year - age.year
   a -= 1
