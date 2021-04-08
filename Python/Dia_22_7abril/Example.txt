@@ -1,0 +1,11 @@
+Microseconds =  0:00:00.000001
+Milliseconds =  0:00:00.001000
+Seconds      =  0:00:01
+Minutes      =  0:01:00
+Hours        =  1:00:00
+Days         =  1 day, 0:00:00
+Weeks        =  7 days, 0:00:00
+--------------------timedelta attributes--------------------
+Minimum =  -999999999 days, 0:00:00
+Maximum =  999999999 days, 23:59:59.999999
+Resoultion =  0:00:00.000001
