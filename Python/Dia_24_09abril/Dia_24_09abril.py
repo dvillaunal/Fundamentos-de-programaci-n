@@ -5,7 +5,7 @@ e1 = openpyxl.load_workbook('Ejercicio1.xlsx')
 '''
 Comprobar si cada elemento de un arreglo NumPy es:
   -> un real o
-  -> es un escalar.
+  -> un complejo.
 '''
 h = e1['Hoja0']
 
