@@ -38,6 +38,7 @@ Website Oficial: https://www.100daysofcode.com/
 -------------------------------------------
 
 # Nuevas Normas dadas el 21 abr. 2021 09:34
+## [__R_100DiasCodigo__](https://docs.google.com/spreadsheets/d/1j6jkEJa2kcfZLkF23ooSsYwIO-9nOILy_RKm1jIVD1E/edit#gid=486978206)
 
 __Todos los replt a partir de hoy, miércoles 21 de abril, día 36 del reto, deben cumplir con las siguientes normas:__
 
