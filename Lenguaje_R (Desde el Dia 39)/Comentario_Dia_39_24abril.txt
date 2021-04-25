@@ -1,0 +1,22 @@
+Profe viendo como se trabaja R en el replit
+
+es muy engorroso, no autollenado de texto (Cosa que si facilitaba la appweb en python, seguramente no estan adaptados)
+
+pero esto me hace pensar para funturas sesiones, donde el tema sea avanzado, haciendo mas duro y lento el proceso
+de escribir codigo.
+
+por ejemplo en R un input es con readline(prompt ='Texto')
+pero al correrlo aqui nisiquiera lo reconoce, si pudiera considerar el hecho de cambair de plataforma porque la verdad, se me dificulta el trabajo aqui.
+
+no se ve los niveles de indexación,
+
+no explica las funciones buil-it que llamamos
+es decir, que parametros recibe, 
+
+😢"en mi opinion personal se ve mas como un .txt"😢
+
+
+Gracias por su atención
+Disculpe las molestias
+
+Estare buscando propuestas, para que sea un comentario con sustento de otras opciones.
